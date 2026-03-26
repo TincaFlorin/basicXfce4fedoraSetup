@@ -16,7 +16,7 @@ sudo dnf install xfwm4 xfce4-panel xfdesktop xfce4-session \
     xfce4-cpugraph-plugin xfce4-mount-plugin xfce4-screenshooter xfce4-panel-profiles \
     picom stow zsh ristretto mpv dnfdragora dnfdragora-updater \
     librsvg2-tools optipng power-profiles-daemon flatpak gnome-keyring \
-    git xorg-x11-drv-amdgpu xrandr vim
+    git xorg-x11-drv-amdgpu xfce4-genmon-plugin xrandr vim
 
 
 printf "Configuring LightDM...\n"
